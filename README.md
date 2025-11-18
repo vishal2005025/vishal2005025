@@ -20,8 +20,6 @@
   </a>
 </p>
 
-
-<h3 align="center">👀 A Software Engineer</h3>
 <h3 align="center">🧑‍🎓 Passionate about full stack development, system design, machine learning integration & clean code.</h3>
 <h3 align="center">Always learning & building — check out my pinned projects below!</h3>
 
